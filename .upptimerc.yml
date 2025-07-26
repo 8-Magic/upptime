@@ -19,8 +19,10 @@ status-website:
   introTitle: "🎱 8-Magic Status Dashboard ✨"
   introMessage: "Welcome to the official 8-Magic status page, powered by GitHub and Upptime. Here, you'll find real-time updates on system performance, outages, and planned maintenance."
   navbar:
-    - title: Status
-      href: https://8-magic.github.io/upptime/
+    - title: 8-Magic
+      href: https://8.alialmasi.ir
+    - title: 8-Magic API
+      href: https://api.8.alialmasi.ir
     - title: GitHub
       href: https://github.com/8-Magic
 
