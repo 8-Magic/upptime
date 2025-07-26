@@ -2,27 +2,27 @@
   {
     "name": "8-Magic",
     "url": "https://8.alialmasi.ir",
-    "icon": "https://icons.duckduckgo.com/ip3/8.alialmasi.ir.ico",
+    "icon": "https://8.alialmasi.ir/logo.svg",
     "slug": "8-magic",
     "status": "down",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
-    "time": 539,
-    "timeDay": 539,
-    "timeWeek": 539,
-    "timeMonth": 539,
-    "timeYear": 539,
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 583,
+    "timeDay": 583,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2025-07-26": 6
+      "2025-07-26": 11
     }
   },
   {
     "name": "8-Magic API",
     "url": "https://api.8.alialmasi.ir",
-    "icon": "https://icons.duckduckgo.com/ip3/api.8.alialmasi.ir.ico",
+    "icon": "https://api.8.alialmasi.ir/logo.svg",
     "slug": "8-magic-api",
     "status": "up",
     "uptime": "100.00%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 559,
-    "timeWeek": 559,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "time": 586,
+    "timeDay": 586,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   }
 ]
