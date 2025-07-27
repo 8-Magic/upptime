@@ -16,7 +16,7 @@
     "timeMonth": 499,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-07-27": 117,
+      "2025-07-27": 1128,
       "2025-07-26": 62
     }
   },
@@ -25,7 +25,7 @@
     "url": "https://api.8.alialmasi.ir",
     "icon": "https://api.8.alialmasi.ir/logo.svg",
     "slug": "8-magic-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
