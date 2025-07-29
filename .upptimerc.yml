@@ -9,6 +9,8 @@ sites:
   - name: 8-Magic API
     url: https://api.8.alialmasi.ir
     icon: https://api.8.alialmasi.ir/logo.svg
+  - name: 8-Magic CLI
+    url: https://cli.8.alialmasi.ir
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
